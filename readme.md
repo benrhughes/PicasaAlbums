@@ -1,6 +1,5 @@
 ##About
-This script creates an 'index' page of albums from your PicasaWeb account. It's useful when using 
-PicasaViewer or [PicasaBox](https://github.com/benrhughes/PicasaBox).
+This script creates an 'index' page of albums from your PicasaWeb account. It's useful when using [PicasaBox](https://github.com/benrhughes/PicasaBox).
 
 This script includes some very simple formatting, which you may like to discard.
 
